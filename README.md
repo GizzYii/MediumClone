@@ -1,4 +1,4 @@
-# Clone Medium3
+# Clone Medium
 
 This project is a simple clone of the **Medium** homepage, created using **HTML**, **CSS** (with **Bootstrap**), and without JavaScript.
 
