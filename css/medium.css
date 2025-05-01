@@ -1,18 +1,23 @@
-body{
-    font-family: "PT Serif", serif;
-
+body {
+  font-family: "PT Serif", serif;
 }
 
 .bg-yellow {
-    background-color: #ffc017; }
-    
+  background-color: #ffc017;
+}
 
-.border-bottom-dark{
-    border-bottom: 1px solid #414141;
+.border-bottom-dark {
+  border-bottom: 1px solid #414141;
 }
-.aside-button > li{
-    margin-bottom: 10px;
+.aside-button > li {
+  margin-bottom: 10px;
 }
-.border-top-dark{
-    border-top: 1px solid rgba(230,230,230,1);
+.border-top-dark {
+  border-top: 1px solid rgba(230, 230, 230, 1);
+}
+@media (max-width: 468px){
+  #imgCover{
+    height: 130px;
+    width: 130px;
+  }
 }
