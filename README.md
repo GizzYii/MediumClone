@@ -2,6 +2,13 @@
 
 This project is a simple clone of the **Medium** homepage, created using **HTML**, **CSS** (with **Bootstrap**), and without JavaScript.
 
+**Note:**  
+> This project was inspired by the core design and structure of popular platforms such as Medium.  
+> While the overall layout and functionality are similar to the originals, this is not an exact clone.  
+> Certain sections were intentionally modified, simplified, or customized to support my learning process.  
+> These changes include minor layout differences, style adjustments, and creative touches.  
+> The project was built purely for educational purposes and has no commercial intent.
+
 ## Features
 
 - **Responsive Design:** The page is designed to be responsive, adapting to different screen sizes.
